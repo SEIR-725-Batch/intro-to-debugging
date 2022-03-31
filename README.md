@@ -209,7 +209,7 @@ Getting errors in your code can be really frustrating, but they can also be real
 
 ## JS Debugging Errors Mini Lab
 
-Next, we will get some practice putting these concepts to use with a mini lab on debugging JavaScript errors linked [here](https://git.generalassemb.ly/seir-622/js-debugging-errors). 
+Next, we will get some practice putting these concepts to use with a mini lab on debugging JavaScript errors linked [here](https://github.com/SEIR-321-Batch/js-debugging-errors). 
 
 ## Hungry for More? 
 
